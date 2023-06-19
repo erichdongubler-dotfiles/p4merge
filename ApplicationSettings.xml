@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--perforce-xml-version=1.0-->
+<PropertyList varName="ApplicationSettings" IsManaged="TRUE">
+ <String varName="CharSet">utf8</String>
+ <Bool varName="InlineDiffsEnabled">true</Bool>
+ <String varName="LineEnding">Unix</String>
+ <Bool varName="ShowTabsSpaces">true</Bool>
+ <Bool varName="TabInsertsSpaces">false</Bool>
+ <Int varName="TabWidth">4</Int>
+ <PropertyList varName="Windows" IsManaged="TRUE">
+  <PropertyList varName="MergeDiff" IsManaged="TRUE">
+   <Bool varName="ShowLineNumbers">true</Bool>
+   <Bool varName="ShowSyntaxHighlighting">true</Bool>
+  </PropertyList>
+ </PropertyList>
+</PropertyList>
